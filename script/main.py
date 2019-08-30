@@ -1,6 +1,4 @@
 #################### Imports #######################
-
-#Imports das UI's
 from Ui_logged import *
 from PyQt5.QtCore import *
 import time
