@@ -32,7 +32,7 @@ You probbably will notice that is __impossible__ to add a QWebView widget in the
 1. Build your Main Window
 2. Setup inside your Window a __QGraphicsView__ widget in the place that you want your webviewer.
 3. Save your UI file
-4. Compile it in a __.py__ file
+4. Compile it in a __.py__ file (my compiled .py file is available on __/script__ folder)
 
 After that, we will edit the compiled-to-python UI file (I know that this is not practical, but It works).
 Please open yout compiled UI file in your favorite text editor and follow this steps:
@@ -64,7 +64,7 @@ __after:__
 Now you can focuses on your main code ;)
 
 ## Additional information
-The main code working with the compiled UI file is a full working example of how to run a window built with the designer, how to use a Qthread, how to setup signals and slots, how to change the UI view from inside the Qthread, and the __most__ hard thing with almost 0 documentation on internet: __how to use all this things together to change the URL of your webviewer while your program runs__.
+The main code (available on __/script__ folder) working with the compiled UI file is a full working example of how to run a window built with the designer, how to use a Qthread, how to setup signals and slots, how to change the UI view from inside the Qthread, and the __most__ hard thing with almost 0 documentation on internet: __how to use all this things together to change the URL of your webviewer while your program runs__.
 
 Please pay attention to the main code example, and try to learn the things that I've said before (if you're in the right way, you'll need this information soon)
 
