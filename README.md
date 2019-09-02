@@ -1,5 +1,5 @@
 # Qt5-Webview-on-a-Raspberry-Pi
-Tutorial code about the usage and instalation of QtWebKit in a PyQt5 app running on a Raspberry Pi (probably working in any armhf device)
+Tutorial code about the usage and instalation of QtWebKit in a PyQt5 app running on a Raspberry Pi (probably working in any armhf device) (Tested on Raspberry Pi 3B+, Raspbian Stretch (directly in the Stretch and in a Docker container))
 
 ![alt text](https://media.licdn.com/dms/image/C4D0BAQFopxfUB5xTZw/company-logo_200_200/0?e=2159024400&v=beta&t=af-X8cgb9ZecB_Z9bcskiikUkdLlEwLx4l00q2IDQj4) 
 
